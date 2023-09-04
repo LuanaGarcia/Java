@@ -1,5 +1,5 @@
 # DIO |  Formação Java Developer
-Repositório para armazenar resumos sobre o curso Formação Java Developer da [**Digital Innovation one**](https://www.dio.me/).
+Repositório para armazenar resumos sobre o curso Formação Java Developer da [**Curos em Vídeo**](https://www.cursoemvideo.com/).
 
 ## 📚 Documentação
 - [Documentação Java](https://glysns.gitbook.io/java-basico)
